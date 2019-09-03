@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.ui.huge.header {
+    text-align: center;
+    padding: 1em 0;
+}
+
+.ui.card {
+    margin: 1.5em auto;
+}
